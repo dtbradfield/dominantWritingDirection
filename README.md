@@ -1,0 +1,2 @@
+# dominantWritingDirection
+EloquentJS practice. 
